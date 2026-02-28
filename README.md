@@ -1,2 +1,2 @@
-# abogados-defensoria-comunitaria
-Servicios de consultoria juridica comunitaria
+# abogados-planeacion-comunitaria
+Servicios de consultoria comunitaria jurídica y territorial 
